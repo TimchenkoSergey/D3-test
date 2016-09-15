@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    
+    background: #fff; 
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+}
+
+circle {
+    fill: #fff;
+    stroke: #000;
+
+    cursor: pointer;
+}
+
+line {
+    stroke-width: 1.5;
+    stroke: #fff;
+}
