@@ -101,7 +101,7 @@ window.onload = function () {
         .links(webLinks)
         .start();
 
-    alert("По перетаскивай точки!");
+    alert("По перетаскивай точки!"); 
 
     function tick() {
         svgWebLinks.attr('x1', function (d) {
